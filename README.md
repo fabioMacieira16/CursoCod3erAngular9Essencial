@@ -13,7 +13,7 @@ Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 
 ## Banco de dados
 
-Banco de dados esta configurado para excultar tanto com o `postgreSQL` quando o `Sqlite`. 
+Banco de dados esta configurado para o arquivo db.json 
 
 ## Development server
 

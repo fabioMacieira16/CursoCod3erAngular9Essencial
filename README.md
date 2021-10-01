@@ -23,3 +23,35 @@ Execute `nodemon ou ng serve` para um servidor de desenvolvimento. Navegar para 
 
 Execute `ng build` para construir o projeto. Os artefatos de construção serão armazenados no diretório `dist /`. Use o sinalizador `--prod` para um buil de produção
 
+
+## Assuntos abordados neste curso.
+    - Backend com JSOM Server
+
+    - Frontend
+        -Visão geral do angular
+        -Conceitos Essenciais
+        -Criando APP com angular
+        -Conhecendo os arquivos do projetos
+        -HTML do AppComponet
+        -Instalar os Componentes do Material
+        -Componete Cabeçalho
+        -Componete Rodapé
+        -Componete Navegação
+        -Elementos do Angular #01
+            * Diretivas : Altera a aparência e o comportamento de um elemento, componente ou outra diretiva.
+             * Structural Directives: altera o layout adicionando e removendo elementos da DOM.
+             * Property Binding
+             * One Way Data Binding
+             * Two Way Data Binding
+
+        -Elementos do Angular #02
+             * callback
+             * promises
+             * Observables: reusáve, stream dados, operadores
+
+        -Componente Criar Produto
+           #service: São classes que têm como principal objetivo organizar e compartilhar métodos e dados entre componentes.
+           Injeção de Dependêcia: é um padrão no qual a classe recebe as dependências de uma fonte externa ao invés de criar por conta própria. 
+
+                
+  

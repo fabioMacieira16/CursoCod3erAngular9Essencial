@@ -16,8 +16,11 @@ Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli
 Banco de dados esta configurado para o arquivo db.json 
 
 ## Development server
+1 - execute command down
+     npm -i @angular/cli
 
-Execute `nodemon ou ng serve` para um servidor de desenvolvimento. Navegar para `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
+2 - Execute `nodemon ou ng serve`
+ para um servidor de desenvolvimento. Navegar para `http://localhost:4200/`. O aplicativo será recarregado automaticamente se você alterar qualquer um dos arquivos de origem.
 
 ## Build
 
@@ -25,7 +28,7 @@ Execute `ng build` para construir o projeto. Os artefatos de construção serão
 
 
 ## Assuntos abordados neste curso.
-    - Backend com JSOM Server
+    - Backend com JSON Server
 
     - Frontend
         -Visão geral do angular

@@ -19,6 +19,21 @@
       "id": 4,
       "name": "Geladeira",
       "proce": "1990.00"
+    },
+    {
+      "name": "fabio",
+      "price": null,
+      "id": 5
+    },
+    {
+      "name": "fabio",
+      "price": "12.99",
+      "id": 6
+    },
+    {
+      "name": "bermuda",
+      "price": "12.99",
+      "id": 7
     }
   ]
 }

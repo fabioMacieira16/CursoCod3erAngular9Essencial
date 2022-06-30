@@ -3,26 +3,26 @@
     {
       "id": 1,
       "name": "Caneta BIC Preta",
-      "Price": 5.89
+      "price": 5.89
     },
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "Price": 12000.89
+      "price": 12000.89
     },
     {
       "id": 3,
       "name": "Sansung S20+",
-      "Price": 500.89
+      "price": 500.89
     },
     {
       "id": 4,
       "name": "Geladeira",
-      "proce": "1990.00"
+      "price": 1990
     },
     {
       "name": "fabio",
-      "price": null,
+      "price": 1990,
       "id": 5
     },
     {
@@ -34,6 +34,11 @@
       "name": "bermuda",
       "price": "12.99",
       "id": 7
+    },
+    {
+      "name": "Lapis Preto",
+      "price": "12.50",
+      "id": 8
     }
   ]
 }

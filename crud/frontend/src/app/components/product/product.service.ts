@@ -44,6 +44,13 @@ export class ProductService {
     return this.http.put<Product>(url, product);
   }
 
+  delete(id: number): Observable<Product> {
+    const url = `${this.baseUrl}/${id}`
+    return this.http.delete<Product>(url).pipe(
+      map((obj => obj),
+        catchError((e) => this.errorHandler(e))
+      ));
+  }
 
   errorHandler(e: any): Observable<any> {
     this.showMenssage("Ocorreu um erro!", true);

@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
+      "name": "Caneta BIC Preta w",
       "price": 5.89
     },
     {
@@ -26,9 +26,14 @@
       "id": 6
     },
     {
-      "name": "new model  bermuda",
-      "price": "12.99",
+      "name": "banana",
+      "price": "12",
       "id": 7
+    },
+    {
+      "name": "Bicicleta",
+      "price": "22.00",
+      "id": 8
     }
   ]
 }
